@@ -1,0 +1,112 @@
+[
+  {
+    "id": "q01",
+    "base": "What are NYC's greenhouse gas emission reduction targets?",
+    "level": "city",
+    "drifts": {
+      "1_paraphrase": "What emission reduction goals has New York City set for greenhouse gases?",
+      "2_scope": "What are New York State's greenhouse gas emission reduction targets?",
+      "3_entity": "What are Los Angeles's greenhouse gas emission reduction targets?",
+      "4_negation": "Why hasn't NYC set greenhouse gas emission reduction targets?"
+    }
+  },
+  {
+    "id": "q02",
+    "base": "What buildings does Local Law 97 apply to?",
+    "level": "city",
+    "drifts": {
+      "1_paraphrase": "Which buildings are covered under NYC's Local Law 97?",
+      "2_scope": "What buildings does the NY State climate law apply to?",
+      "3_entity": "What buildings does Local Law 96 apply to?",
+      "4_negation": "What buildings are exempt from Local Law 97?"
+    }
+  },
+  {
+    "id": "q03",
+    "base": "What is the global temperature goal in the Paris Agreement?",
+    "level": "federal",
+    "drifts": {
+      "1_paraphrase": "What temperature target did the Paris Agreement establish?",
+      "2_scope": "What is the US temperature reduction goal under the Paris Agreement?",
+      "3_entity": "What is the global temperature goal in the Kyoto Protocol?",
+      "4_negation": "Why did the Paris Agreement fail to set a temperature goal?"
+    }
+  },
+  {
+    "id": "q04",
+    "base": "What emission reduction targets does the NY Climate Leadership and Community Protection Act set?",
+    "level": "state",
+    "drifts": {
+      "1_paraphrase": "What are the emissions goals under New York's CLCPA?",
+      "2_scope": "What emission targets does NYC's climate law set?",
+      "3_entity": "What emission targets does the California Climate Act set?",
+      "4_negation": "Why does the CLCPA not set specific emission targets?"
+    }
+  },
+  {
+    "id": "q05",
+    "base": "How does PlaNYC address climate change?",
+    "level": "city",
+    "drifts": {
+      "1_paraphrase": "What climate strategies are outlined in NYC's PlaNYC?",
+      "2_scope": "How does the NY State climate plan address climate change?",
+      "3_entity": "How does PlanLA address climate change?",
+      "4_negation": "Why does PlaNYC ignore climate change?"
+    }
+  },
+  {
+    "id": "q06",
+    "base": "What are the penalties for buildings that violate Local Law 97?",
+    "level": "city",
+    "drifts": {
+      "1_paraphrase": "What fines exist for non-compliance with NYC Local Law 97?",
+      "2_scope": "What are the penalties for violating NY State climate regulations?",
+      "3_entity": "What are the penalties for buildings that violate Local Law 96?",
+      "4_negation": "Why are there no penalties under Local Law 97?"
+    }
+  },
+  {
+    "id": "q07",
+    "base": "What renewable energy goals does New York State have?",
+    "level": "state",
+    "drifts": {
+      "1_paraphrase": "What are NY State's targets for clean energy?",
+      "2_scope": "What renewable energy goals does NYC have?",
+      "3_entity": "What renewable energy goals does New Jersey have?",
+      "4_negation": "Why has New York State avoided setting renewable energy goals?"
+    }
+  },
+  {
+    "id": "q08",
+    "base": "How does the Inflation Reduction Act support clean energy?",
+    "level": "federal",
+    "drifts": {
+      "1_paraphrase": "What clean energy provisions are in the Inflation Reduction Act?",
+      "2_scope": "How does New York's climate law support clean energy?",
+      "3_entity": "How does the Infrastructure Investment Act support clean energy?",
+      "4_negation": "Why does the Inflation Reduction Act not support clean energy?"
+    }
+  },
+  {
+    "id": "q09",
+    "base": "What are NYC's targets for reducing building energy consumption?",
+    "level": "city",
+    "drifts": {
+      "1_paraphrase": "How does NYC plan to lower energy use in buildings?",
+      "2_scope": "What are NY State's targets for reducing building energy consumption?",
+      "3_entity": "What are Chicago's targets for reducing building energy consumption?",
+      "4_negation": "Why has NYC not set targets for reducing building energy consumption?"
+    }
+  },
+  {
+    "id": "q10",
+    "base": "What role do environmental justice communities play in NY climate policy?",
+    "level": "state",
+    "drifts": {
+      "1_paraphrase": "How are disadvantaged communities addressed in New York's climate legislation?",
+      "2_scope": "What role do environmental justice communities play in NYC climate policy?",
+      "3_entity": "What role do environmental justice communities play in federal climate policy?",
+      "4_negation": "Why are environmental justice communities excluded from NY climate policy?"
+    }
+  }
+]
